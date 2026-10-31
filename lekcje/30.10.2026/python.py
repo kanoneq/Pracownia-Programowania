@@ -26,4 +26,4 @@ def GenerateXML(fileName):
     with open(fileName, "wb") as files:
         tree.write(files, encoding="utf-8", xml_declaration=True)
 
-GenerateXML("Nazwa_pliku.xml")
+GenerateXML("plik_pierwszy.xml")

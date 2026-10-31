@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<pierwszy_tab>
+		<pierwszy_obiekt>pierwsza podana wartosc przez usera</pierwszy_obiekt>
+		<drugi_obiekt>druga podana wartosc przez usera</drugi_obiekt>
+	</pierwszy_tab>
+</root>

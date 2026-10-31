@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osoby ID="0">
+	<osoba1>
+		<ocena_polski>1</ocena_polski>
+		<ocena_matma>1</ocena_matma>
+		<ocena_angielski>1</ocena_angielski>
+		<ocena_wf>1</ocena_wf>
+		<ocena_religia>1</ocena_religia>
+		<srednia>1.0</srednia>
+		<czy_pasek>pasek na dupie dla osoba1</czy_pasek>
+	</osoba1>
+	<osoba2>
+		<ocena_polski>2</ocena_polski>
+		<ocena_matma>2</ocena_matma>
+		<ocena_angielski>2</ocena_angielski>
+		<ocena_wf>2</ocena_wf>
+		<ocena_religia>2</ocena_religia>
+		<srednia>2.0</srednia>
+		<czy_pasek>pasek na dupie dla osoba2</czy_pasek>
+	</osoba2>
+	<osoba3>
+		<ocena_polski>3</ocena_polski>
+		<ocena_matma>3</ocena_matma>
+		<ocena_angielski>3</ocena_angielski>
+		<ocena_wf>3</ocena_wf>
+		<ocena_religia>3</ocena_religia>
+		<srednia>3.0</srednia>
+		<czy_pasek>pasek na dupie dla osoba3</czy_pasek>
+	</osoba3>
+	<osoba4>
+		<ocena_polski>4</ocena_polski>
+		<ocena_matma>4</ocena_matma>
+		<ocena_angielski>4</ocena_angielski>
+		<ocena_wf>4</ocena_wf>
+		<ocena_religia>4</ocena_religia>
+		<srednia>4.0</srednia>
+		<czy_pasek>pasek na dupie dla osoba4</czy_pasek>
+	</osoba4>
+	<osoba5>
+		<ocena_polski>5</ocena_polski>
+		<ocena_matma>5</ocena_matma>
+		<ocena_angielski>5</ocena_angielski>
+		<ocena_wf>5</ocena_wf>
+		<ocena_religia>5</ocena_religia>
+		<srednia>5.0</srednia>
+		<czy_pasek>pasek na swiadectwie dla osoba5</czy_pasek>
+	</osoba5>
+</osoby>
